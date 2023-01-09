@@ -18,4 +18,5 @@ const genresController = {
 
 }
 
-module.exports = genresController;
+//module.exports = genresController
+module.exports= genresController;
